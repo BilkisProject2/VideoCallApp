@@ -51,5 +51,5 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation ("im.zego:zego_uikit_prebuilt_call_android:+")
-
+    implementation ("im.zego:zego_uikit_prebuilt_live_streaming_android:+")
 }
